@@ -4,7 +4,7 @@
   "description": "MERN API para MERN TASKS",
   "main": "index.js",
   "scripts": {
-    "start": "node .",
+    "start": "node MERNTasks-servidor/index.js",
     "dev": "nodemon ."
   },
   "author": "Cande Rufail",
